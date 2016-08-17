@@ -7,5 +7,4 @@ public class ClassMain {
 		Car myCar = new Car(4, 4, 6, false, "Blue");
 		
 	}
-
 }
